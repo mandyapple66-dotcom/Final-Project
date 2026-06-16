@@ -1,8 +1,8 @@
 # Final-Project
 
 ## 👤 Student Information
-Name: 顏名萱
-Student ID: 113370212
+* **Name:** 顏名萱
+* **Student ID:** 113370212
 ## Project Repository
 
 ## Presentation Video
@@ -29,8 +29,13 @@ Our statistical workflow maps the delicate balance between active and lifestyle 
 
 ---
 
-## ❓ Short Project Question
-> **"Do active exercise habits and sedentary television viewing behaviors independently and interactively predict body mass index (BMI) percentiles among US adolescents, and do these behavioral impacts differ significantly between male and female students?"**
+## ❓ Core Research Questions
+
+#### **ANOVA Research Question:**
+* Do an adolescent's **weekly physical activity levels** (categorized as Low, Medium, and High) and their **biological sex** significantly influence their BMI percentiles? Furthermore, does a significant **interaction effect** exist between these physical activity levels and biological sex?
+
+#### **Regression Research Question:**
+* Do an adolescent's **television watching hours** and **weekly exercise days** concurrently serve as significant predictors of their BMI percentiles?
 
 ---
 
