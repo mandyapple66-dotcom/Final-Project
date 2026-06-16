@@ -1,10 +1,10 @@
-# Final-Project
+# Final Project
 
 ## 👤 Student Information
 * **Name:** 顏名萱
 * **Student ID:** 113370212
 ## Project Repository
-
+https://github.com/mandyapple66-dotcom/Final-Project.git
 ## Presentation Video
 
 ---
