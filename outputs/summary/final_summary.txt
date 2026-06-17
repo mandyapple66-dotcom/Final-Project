@@ -11,7 +11,7 @@ Sample Mean of BMIPCT : 64.8495
 Sample Standard Dev.  : 27.5024
 t-statistic           : 61.1937
 p-value               : 0.0 (Highly Significant)
-95% Confidence Interval: [64.8495, 64.8495]
+95% Confidence Interval: [64.38, 65.32]
 
 ------------------------------------------------------------------------------
  PART 2: TWO-WAY ANOVA INTERACTION EFFECT (Sex x Activity Group)
